@@ -1,6 +1,6 @@
 # Sunrise/Sunset Smart Light Controller
 
-A Raspberry Pi-based project that automatically controls smart lights based on sunrise and sunset times of the local area. The system uses LED indicators and bar graphs to display various states and timing information.
+A RaspberryPi-based project that automatically controls smart lights based on sunrise and sunset times of the local area. The system uses LED indicators and bar graphs to display various states and timing information.
 
 ## Features
 
